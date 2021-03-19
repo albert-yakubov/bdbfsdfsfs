@@ -1,0 +1,24 @@
+{
+    "name": "bdbfsdfsfs",
+    "description": "",
+    "dependencies": {
+        "core": "*",
+        "microphone": "*",
+        "TobbieII": "github:kaku111/pxt-tobbieii#v2.0.3",
+        "bluetooth": "*",
+        "linebeacon": "github:pizayanz/pxt-linebeacon#v0.0.14"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md",
+        "main.py"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "pyprj"
+}
